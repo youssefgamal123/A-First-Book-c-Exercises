@@ -1,0 +1,28 @@
+
+A.
+ofstream memo;
+memo.open("coba.mem");
+memo.close();
+
+
+ofstream coups ;
+coups.open("coupons.bnd");
+coups.close();
+
+ofstream priFile;
+priFile.open("prices.dat");
+priFile.close();
+
+
+
+
+
+B:
+fstream memo;
+memo.open("coba.mem",ios::out);
+
+fstream coups ;
+coups.open("coupons.bnd",ios::out);
+
+fstream priFile;
+priFile.open("prices.dat",ios::out);

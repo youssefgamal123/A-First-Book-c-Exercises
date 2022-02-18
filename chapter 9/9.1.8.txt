@@ -1,0 +1,3 @@
+A.Depending on my OS , it has 255 characters as maximum number of characters allowed in naming files
+
+B . 512 files
