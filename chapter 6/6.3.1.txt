@@ -1,0 +1,5 @@
+double& amount;
+double& price;
+int& minutes; 
+char& key;
+double& yeild;

@@ -1,0 +1,1 @@
+void time(short& hours,short& minutes,short& seconds);
