@@ -1,0 +1,4 @@
+
+void maximum(double *speed)
+void maximum(double speed[])
+void maximum(double speed[256])

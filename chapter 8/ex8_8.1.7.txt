@@ -1,0 +1,10 @@
+int *xAddr;
+char *chAddr;
+long *ptYr;
+double *amt;
+int *z ;
+float *qp;
+int datePT;
+double *yldAddr;
+float *amtpt;
+char *ptChar;

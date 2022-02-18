@@ -1,0 +1,4 @@
+char *c;
+int *p;
+float *k;
+double *z;

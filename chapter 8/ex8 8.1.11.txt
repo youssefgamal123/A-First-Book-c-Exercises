@@ -1,0 +1,42 @@
+a. yAddr = &a;
+Valid
+b. yAddr = &b;
+Not Valid
+c. yAddr = &c;
+Not Valid
+d. yAddr = a;
+Not Valid
+e. yAddr = b;
+Not Valid
+f. yAddr = c;
+Not Valid
+g. dtAddr = &a;
+Not Valid
+h. dtAddr = &b;
+Valid
+i. dtAddr = &c;
+Not Valid
+j. dtAddr = a;
+Not Valid
+k. dtAddr = b;
+Not Valid
+l. dtAddr = c;
+Not Valid
+m. ptZ = &a;
+Not Valid
+n. ptAddr = &b;
+Valid
+o. ptAddr = &c;
+Not Valid
+p. ptAddr = a;
+Not Valid
+q. ptAddr = b;
+Not Valid
+r. ptAddr = c;
+Not Valid
+s. yAddr = xPt;
+Valid
+t. yAddr = dtAddr;
+Not Valid
+u. yAddr = ptAddr;
+Not Valid

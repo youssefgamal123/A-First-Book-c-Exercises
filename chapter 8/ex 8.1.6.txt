@@ -1,0 +1,9 @@
+*xAddr
+*yAddr
+*ptYld
+*ptMiles
+*mptr
+*pdate
+*distPtr
+*tabPt
+*hoursPt

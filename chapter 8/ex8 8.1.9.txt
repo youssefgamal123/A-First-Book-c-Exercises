@@ -1,0 +1,12 @@
+a. char *keyAddr;
+keyAddr is a pointer to a character variable.
+b. int *m;
+m is a pointer to an integer
+c. double *yldAddr;
+yldAddr is a pointer to a double-precision varable.
+d. long *yPtr;
+yPtr is a pointer to an integer
+e. double *pCou;
+pCou is a pointer to a double-precision varable.
+f. int *ptDate;
+ptDate is a pointer to an integer.

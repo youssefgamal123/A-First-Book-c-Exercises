@@ -1,0 +1,1 @@
+the address in memory  of the variable is stored in the pointer variable and the data type it points to it 

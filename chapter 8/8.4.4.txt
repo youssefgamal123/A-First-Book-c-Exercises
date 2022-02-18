@@ -1,0 +1,10 @@
+int findMax(int *vals, int numels)   // find the maximum value
+{
+	int i, min = *vals++;   // get the first element and increment it
+	for (i = 1; i < numels; i++, vals++)
+	{
+		if (min > *vals)
+			min = *vals;
+	}
+	return min;
+}

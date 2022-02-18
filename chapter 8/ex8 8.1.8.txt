@@ -1,0 +1,2 @@
+A.they are called pointers
+B. because they don't indicate anything about their functionality and usage 

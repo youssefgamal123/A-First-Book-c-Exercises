@@ -1,0 +1,7 @@
+1) data type,name and value
+2) the addreas where average variable is stored in
+
+3) &temp = 16892
+&dist = 16896
+&data = 16900
+&miles = 16908

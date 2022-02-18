@@ -1,0 +1,14 @@
+a. ptNum = &m;
+8096
+b. amtAddr = &amt;
+16256
+c. *zAddr = 25;
+8024
+d. k = *numAddr;
+10132
+e. ptDay = zAddr;
+20492
+f. *ptYr = 2011;
+15010
+g. *amtAddr = *numAddr;
+10132
