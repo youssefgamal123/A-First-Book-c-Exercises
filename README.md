@@ -6,8 +6,8 @@ This repertory is an active development record of my programming skills. All ans
 
 
 
+All 12 chapters are answered.
 
-Feel free to leave comments and discuss code 
 
 
-All 12 chapters are answered 
+Feel free to leave comments and discuss code.
