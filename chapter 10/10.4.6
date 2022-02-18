@@ -1,0 +1,24 @@
+6. (Modify) Modify the main() function in Program 10.6 to use a while loop that calls the
+Elevator’s request() method with a random number between 1 and 15. If the random
+number is the same as the elevator’s current floor, generate another request. The while loop
+should terminate after five valid requests have been made and be satisfied by movement of
+the elevator. (Hint: Review Section 6.8 about the use of random numbers.)
+
+int main()
+{
+	Elevator a, b(2, 5, 20);   // declare 1 object of type Elevator
+
+	int total = 0;
+
+	while (total < 5)
+	{
+		double var = rand() % 15 + 1;
+	    b.request(var);
+	if (var == var){
+		b.request(var);
+	}
+	total++;
+    }
+	system("PAUSE");
+	return 0;
+}

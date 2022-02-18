@@ -1,0 +1,85 @@
+1. (Practice) Figure 10.3 is a simplified diagram for assembling a birdhouse. Referring to this
+diagram, create a parts list and instructions for constructing it.
+*See textbook for Figure 10.3 Building a birdhouse*
+
+*Parts
+-Roof Parts
+2 rectangle pieces of wood with 4 screw holes each
+2 triangle pieces of wood with one having a hole in it
+-House Parts
+3 rectangle pieces of wood
+2 square pieces of wood with 4 screw holes each
+1 peg
+*Instructions
+Place part D on the bottom
+Connect A & B to the base D
+Next attach both C's to each side
+Attach the peg to A
+Next attach E to (G & H) and F to (G& H) via screw holes
+Finally attach the roof to the house and place the peg and hole on the same side.
+
+2. (Practice) a. List the items you need to build a staircase with five steps.
+
+10 rectangular pieces of wood
+Hammer
+Nails
+2 support pieces of ply wood
+
+b. Write instructions for assembling the items listed in Exercise 2a.
+
+Connect each rectangular pieces of wood with nails using hammer.
+Connect the peices into a row or right angles.
+Cut the supporting pieces of wood in order to mach the dimension of the row of right angles.
+Finally, connect each cut side to the rows or right angled pieces of wood.
+
+3. (Practice) a. List the ingredients you need to create 10 peanut butter and jelly sandwiches.
+
+Peanut butter
+Jelly
+20 slices of bread
+
+b. Write instructions for assembling the items listed in Exercise 3a.
+
+Spread peanut butter on 10 slices of bread
+Spread Jelly on 10 slices of bread
+Combine each peanut butter slice with a jelly slice
+
+4. (Practice) Find assembly instructions from a recent item you have built (for example, a bicycle
+or a bookcase with one shelf). Identify the major elements in the assembly instructions that
+correspond to the Ingredients and Method of Preparation sections shown in Figure 10.2.
+
+The instructions used to build a bookcase use use the same formula as the section shown in Figure 10.2
+It gives the user a set of requirement and the arrangment of those requirements
+
+
+
+5 )
+
+
+class die {
+
+private:
+int one ,two,three,four,five,six;
+
+
+public:
+
+void roll();
+void show_rolled();
+
+};
+
+
+
+
+6 )
+
+class rectangel{
+private;
+float side1,side2,side3,side4;
+
+public :
+float calc(float s1,float s2,float s3 , float s4) ; // function used to calculate based on passing the four sides of the rectangle 
+
+
+};

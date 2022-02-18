@@ -1,0 +1,17 @@
+the variables should  be declared in the private section for data hiding and the functions should be declared in the public section for allowing to access the public class members
+
+solution :
+--------
+
+class Employee {
+
+private:
+int empnum;
+char code;
+
+public :
+class (int = 0 );
+void showemp(int , char);
+
+
+};

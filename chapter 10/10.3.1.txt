@@ -1,0 +1,15 @@
+A. true
+B. False
+c. False
+d.False
+e.true
+f.true
+g. False
+h . true
+i.true
+j.true
+k.False
+l.true
+m.false
+n.true
+o.false  

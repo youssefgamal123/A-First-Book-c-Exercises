@@ -1,0 +1,14 @@
+
+
+Class : construction plane for objects that will inhert all the atributes and opreations of that class
+objects : created instances from classes
+Declaration section : it's a section in the class in which you declare public and private class members and methods and their prototyping
+Implementation section : It's a section in the class in which you define how the class methods will opreate
+instance variable : variable listed in the class Declaration
+Member Method : function listed in the class Declaration
+Data members  : variables listed in the class Declaration section
+constructor : function that intializes data to class members when instancing an object from the class which have same name as the class and no return type
+class instance : it's basically an object
+Services - another name for the operations defined in a class implementation section
+methods : functions listed in class Declaration section
+ Interface - consists of a class's public member method declaarations and any supporting commands
